@@ -40,5 +40,3 @@ To clone this repository to your local machine using **HTTPS**, run the followin
 ```bash
 git clone https://github.com/MohsinJavaidButt/Types-of-linked-lists.git
 
-
-Alternatively, you can use the GitHub CLI to clone the repository:
