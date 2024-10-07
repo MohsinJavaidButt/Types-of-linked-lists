@@ -127,10 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CircularList.h" />
     <ClInclude Include="Hlist.h" />
     <ClInclude Include="node.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CircularList.cpp" />
     <ClCompile Include="Hlist.cpp" />
     <ClCompile Include="node.cpp" />
     <ClCompile Include="Source.cpp" />
